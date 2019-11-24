@@ -1,4 +1,4 @@
-# -bitcoin-richester50-list
+# bitcoin-richester-50list
 A list of the top 19 bitcoin wallets.
 
 Repositories:
