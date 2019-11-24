@@ -1,5 +1,5 @@
 # -bitcoin-richester50-list
-A list of the top 50 bitcoin wallets.
+A list of the top 19 bitcoin wallets.
 
 Repositories:
 
@@ -23,9 +23,7 @@ $ sudo apt-get update
 $ sudo apt-get update
 
 Compilation:
-
 Installing the required packages.
-
 
 pip install requests_cache
 
@@ -35,8 +33,6 @@ pip install cssselect
 
 
 Execution:
-
-Making:
 
 python collect50.py
 
