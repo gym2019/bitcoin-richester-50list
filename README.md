@@ -23,13 +23,19 @@ $ sudo apt-get update
 $ sudo apt-get update
 
 Compilation:
+
 Installing the required packages.
 
+
 pip install requests_cache
+
 pip install lxml
+
 pip install cssselect
 
+
 Execution:
+
 Making:
 
 python collect50.py
