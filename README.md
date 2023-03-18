@@ -37,4 +37,8 @@ Execution:
 python collect50.py
 
 DONATION:
-3QhhxbLcTPeiboRFGQFYsFtoVu9yNgWpK9
+bc1qrzuagnahmq9na3kf8t8m3647rphrz7emg0cy5x
+
+TC3YacH7Ck8DWnEuKTZwZF6VZZfVXHbtLn
+
+0x0950aD5757138913F0752307fd6eE4Eb1bb4c37D
